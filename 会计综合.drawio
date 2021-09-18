@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-18T09:38:55.572Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="asM0RlKClPodUuAm8Fxl" version="15.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-18T09:42:14.938Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="s5V2-QWDbrN3dijZdKZ8" version="15.2.9" type="github">
   <diagram id="uVlFsM5fyuZVZJAGePYJ" name="第 1 页">
-    <mxGraphModel dx="2694" dy="1089" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#EEEEEE" math="0" shadow="0">
+    <mxGraphModel dx="1301" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#EEEEEE" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -209,7 +209,7 @@
         <mxCell id="H9P7-HzLEOZxqYkB23vR-37" value="&amp;nbsp;&lt;span&gt;	&lt;/span&gt;实时出具实训报告" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontSize=14;fontColor=#FFFFFF;strokeColor=#909090;fillColor=#F0843D;align=center;verticalAlign=middle;" vertex="1" parent="H9P7-HzLEOZxqYkB23vR-128">
           <mxGeometry y="120" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="H9P7-HzLEOZxqYkB23vR-38" value="&amp;nbsp;&lt;span&gt;	&lt;/span&gt;实时出具实训报告" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontSize=14;fontColor=#FFFFFF;strokeColor=#909090;fillColor=#F0843D;align=center;verticalAlign=middle;" vertex="1" parent="H9P7-HzLEOZxqYkB23vR-128">
+        <mxCell id="H9P7-HzLEOZxqYkB23vR-38" value="&amp;nbsp;&lt;span&gt;	&lt;/span&gt;随时查看实习历史" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontSize=14;fontColor=#FFFFFF;strokeColor=#909090;fillColor=#F0843D;align=center;verticalAlign=middle;" vertex="1" parent="H9P7-HzLEOZxqYkB23vR-128">
           <mxGeometry y="60" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
