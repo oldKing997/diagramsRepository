@@ -1,14 +1,29 @@
-<mxfile host="app.diagrams.net" modified="2021-09-18T05:55:19.039Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="7dmw8RNriiAAnl1SXf5g" version="15.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-18T06:30:36.965Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="xZc956lDOEAqncsexcER" version="15.2.9" type="github">
   <diagram id="qGe1pdqT3W0wRUecUUKz" name="第 1 页">
-    <mxGraphModel dx="1422" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#EEEEEE" math="0" shadow="0">
+    <mxGraphModel dx="1301" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#EEEEEE" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="4i9QKy6Y-gxEZ1XMwqIK-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F5AB50;strokeColor=#909090;fontColor=#1A1A1A;" vertex="1" parent="1">
-          <mxGeometry x="60" y="220" width="120" height="60" as="geometry" />
+        <mxCell id="4i9QKy6Y-gxEZ1XMwqIK-1" value="python基础" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F5AB50;strokeColor=#909090;fontColor=#1A1A1A;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="60" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4i9QKy6Y-gxEZ1XMwqIK-2" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontColor=#1A1A1A;strokeColor=#909090;fillColor=#F5AB50;" vertex="1" parent="1">
+        <mxCell id="4i9QKy6Y-gxEZ1XMwqIK-2" value="数据分析及可视化" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontColor=#1A1A1A;strokeColor=#909090;fillColor=#F5AB50;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="60" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OSP_YYPjxVIksi6Q03AP-1" value="python办公自动化" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontColor=#1A1A1A;strokeColor=#909090;fillColor=#F5AB50;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="60" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OSP_YYPjxVIksi6Q03AP-2" value="财务数据案例实训" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontColor=#1A1A1A;strokeColor=#909090;fillColor=#F5AB50;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="60" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OSP_YYPjxVIksi6Q03AP-51" value="教&lt;br style=&quot;font-size: 14px;&quot;&gt;师&lt;br style=&quot;font-size: 14px;&quot;&gt;端" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;align=center;verticalAlign=middle;fillColor=#647687;strokeColor=#314354;fontSize=14;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="290" y="200" width="40" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="OSP_YYPjxVIksi6Q03AP-52" value="灵活教学" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontSize=14;fontColor=#1A1A1A;strokeColor=#909090;fillColor=#F5AB50;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="330" y="200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OSP_YYPjxVIksi6Q03AP-53" value="灵活教学" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontSize=14;fontColor=#1A1A1A;strokeColor=#909090;fillColor=#F5AB50;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="330" y="240" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
