@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-18T08:16:02.749Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="sRZ23tvHoUYl1k0cwMnW" version="15.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-18T08:29:04.138Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="isCyPxBsNUu5nU9yWXr1" version="15.2.9" type="github">
   <diagram id="qGe1pdqT3W0wRUecUUKz" name="第 1 页">
-    <mxGraphModel dx="2219" dy="962" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#EEEEEE" math="0" shadow="0">
+    <mxGraphModel dx="1886" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#EEEEEE" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -84,34 +84,14 @@
         <mxCell id="OSP_YYPjxVIksi6Q03AP-80" value="视频结合学习" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontSize=14;fontColor=#FFFFFF;strokeColor=#909090;fillColor=#F0843D;align=center;verticalAlign=middle;" vertex="1" parent="OSP_YYPjxVIksi6Q03AP-94">
           <mxGeometry x="41" y="120" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="OSP_YYPjxVIksi6Q03AP-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontColor=#1A1A1A;strokeColor=#182E3E;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="OSP_YYPjxVIksi6Q03AP-73" target="OSP_YYPjxVIksi6Q03AP-91">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="540" y="408" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="OSP_YYPjxVIksi6Q03AP-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.006;entryY=0.617;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;fontColor=#1A1A1A;strokeColor=#182E3E;" edge="1" parent="1" source="OSP_YYPjxVIksi6Q03AP-79" target="OSP_YYPjxVIksi6Q03AP-89">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="OSP_YYPjxVIksi6Q03AP-89" value="&lt;p class=&quot;MsoBodyText&quot;&gt;作业考试记录&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontSize=14;fontColor=#FFFFFF;strokeColor=#909090;fillColor=#F0843D;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="626" y="586" width="130" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="OSP_YYPjxVIksi6Q03AP-107" value="" style="group;fillColor=#F0843D;fontColor=#FFFFFF;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="626" y="263" width="130" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="OSP_YYPjxVIksi6Q03AP-88" value="&lt;span style=&quot;font-size: 10.5pt&quot;&gt;成绩档案存储与管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontSize=14;fontColor=#FFFFFF;strokeColor=#909090;fillColor=#F0843D;align=center;verticalAlign=middle;" vertex="1" parent="OSP_YYPjxVIksi6Q03AP-107">
-          <mxGeometry width="130" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="OSP_YYPjxVIksi6Q03AP-91" value="实时运行结果查看" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontSize=14;fontColor=#FFFFFF;strokeColor=#909090;fillColor=#F0843D;align=center;verticalAlign=middle;" vertex="1" parent="OSP_YYPjxVIksi6Q03AP-107">
-          <mxGeometry y="60" width="130" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="OSP_YYPjxVIksi6Q03AP-109" value="核心内容" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontSize=17;fontColor=#ffffff;strokeColor=#314354;fillColor=#647687;align=center;verticalAlign=middle;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="90" y="110" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="OSP_YYPjxVIksi6Q03AP-110" value="功能介绍" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontSize=17;fontColor=#ffffff;strokeColor=#314354;fillColor=#647687;align=center;verticalAlign=middle;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="OSP_YYPjxVIksi6Q03AP-110" value="核心功能" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontSize=17;fontColor=#ffffff;strokeColor=#314354;fillColor=#647687;align=center;verticalAlign=middle;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="354" y="110" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="OSP_YYPjxVIksi6Q03AP-111" value="形成结果" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontSize=17;fontColor=#ffffff;strokeColor=#314354;fillColor=#647687;align=center;verticalAlign=middle;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="630" y="110" width="120" height="50" as="geometry" />
+        <mxCell id="OSP_YYPjxVIksi6Q03AP-111" value="形成成果" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontSize=17;fontColor=#ffffff;strokeColor=#314354;fillColor=#647687;align=center;verticalAlign=middle;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="620" y="110" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="OSP_YYPjxVIksi6Q03AP-112" value="货币资金业务中的数据分析应用" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontSize=12;fontColor=#FFFFFF;strokeColor=#909090;fillColor=#F0843D;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="60" y="429" width="180" height="40" as="geometry" />
@@ -157,6 +137,33 @@
         </mxCell>
         <mxCell id="OSP_YYPjxVIksi6Q03AP-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontColor=#1A1A1A;strokeColor=#182E3E;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="OSP_YYPjxVIksi6Q03AP-121" target="OSP_YYPjxVIksi6Q03AP-54">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OSP_YYPjxVIksi6Q03AP-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#FFFFFF;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="OSP_YYPjxVIksi6Q03AP-72" target="OSP_YYPjxVIksi6Q03AP-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OSP_YYPjxVIksi6Q03AP-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#FFFFFF;" edge="1" parent="1" source="OSP_YYPjxVIksi6Q03AP-79" target="OSP_YYPjxVIksi6Q03AP-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OSP_YYPjxVIksi6Q03AP-136" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="600" y="260" width="160" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="OSP_YYPjxVIksi6Q03AP-89" value="&lt;p class=&quot;MsoBodyText&quot;&gt;作业考试记录&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontSize=14;fontColor=#FFFFFF;strokeColor=#909090;fillColor=#F0843D;align=center;verticalAlign=middle;" vertex="1" parent="OSP_YYPjxVIksi6Q03AP-136">
+          <mxGeometry y="300" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OSP_YYPjxVIksi6Q03AP-129" value="智能AI分析" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontSize=14;fontColor=#FFFFFF;strokeColor=#909090;fillColor=#F0843D;align=center;verticalAlign=middle;" vertex="1" parent="OSP_YYPjxVIksi6Q03AP-136">
+          <mxGeometry width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OSP_YYPjxVIksi6Q03AP-88" value="&lt;span style=&quot;font-size: 10.5pt&quot;&gt;成绩档案存储与管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontSize=14;fontColor=#FFFFFF;strokeColor=#909090;fillColor=#F0843D;align=center;verticalAlign=middle;" vertex="1" parent="OSP_YYPjxVIksi6Q03AP-136">
+          <mxGeometry y="180" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OSP_YYPjxVIksi6Q03AP-91" value="实时运行结果查看" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontSize=14;fontColor=#FFFFFF;strokeColor=#909090;fillColor=#F0843D;align=center;verticalAlign=middle;" vertex="1" parent="OSP_YYPjxVIksi6Q03AP-136">
+          <mxGeometry y="240" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OSP_YYPjxVIksi6Q03AP-130" value="&lt;p class=&quot;MsoBodyText&quot;&gt;丰富的分析图表&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontSize=14;fontColor=#FFFFFF;strokeColor=#909090;fillColor=#F0843D;align=center;verticalAlign=middle;" vertex="1" parent="OSP_YYPjxVIksi6Q03AP-136">
+          <mxGeometry y="120" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OSP_YYPjxVIksi6Q03AP-132" value="&lt;p class=&quot;MsoBodyText&quot;&gt;多维分析报告&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontSize=14;fontColor=#FFFFFF;strokeColor=#909090;fillColor=#F0843D;align=center;verticalAlign=middle;" vertex="1" parent="OSP_YYPjxVIksi6Q03AP-136">
+          <mxGeometry y="60" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
