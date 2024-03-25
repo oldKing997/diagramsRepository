@@ -1,9 +1,98 @@
-<mxfile host="app.diagrams.net" modified="2024-03-25T02:43:56.066Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" version="24.1.0" etag="jVo1Ts57B3p4e3uyMoMr" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-25T03:24:50.890Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="iiwXQVhHUvj1F40tu34U" version="24.1.0" type="github">
   <diagram name="第 1 页" id="2roA2NmpC_pGqnweillx">
-    <mxGraphModel>
+    <mxGraphModel dx="1195" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="2J1E2nWtynSx2TIuEP8Y-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2J1E2nWtynSx2TIuEP8Y-1" target="2J1E2nWtynSx2TIuEP8Y-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2J1E2nWtynSx2TIuEP8Y-1" value="访问页面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2J1E2nWtynSx2TIuEP8Y-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2J1E2nWtynSx2TIuEP8Y-6" target="2J1E2nWtynSx2TIuEP8Y-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2J1E2nWtynSx2TIuEP8Y-14" value="未加载路由" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2J1E2nWtynSx2TIuEP8Y-11">
+          <mxGeometry x="0.2" y="-3" relative="1" as="geometry">
+            <mxPoint x="-6" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2J1E2nWtynSx2TIuEP8Y-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2J1E2nWtynSx2TIuEP8Y-6" target="2J1E2nWtynSx2TIuEP8Y-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2J1E2nWtynSx2TIuEP8Y-18" value="已加载路由" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2J1E2nWtynSx2TIuEP8Y-17">
+          <mxGeometry x="-0.3026" y="3" relative="1" as="geometry">
+            <mxPoint x="-3" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2J1E2nWtynSx2TIuEP8Y-6" value="判断是否已初始化路由" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="140" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2J1E2nWtynSx2TIuEP8Y-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="2J1E2nWtynSx2TIuEP8Y-10" target="2J1E2nWtynSx2TIuEP8Y-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170.02999999999997" y="270" as="targetPoint" />
+            <mxPoint x="310" y="220" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="350" y="270" />
+              <mxPoint x="110" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2J1E2nWtynSx2TIuEP8Y-10" value="初始化路由" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2J1E2nWtynSx2TIuEP8Y-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2J1E2nWtynSx2TIuEP8Y-16" target="2J1E2nWtynSx2TIuEP8Y-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="110" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2J1E2nWtynSx2TIuEP8Y-23" value="需要登录权限" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2J1E2nWtynSx2TIuEP8Y-22">
+          <mxGeometry x="-0.2805" relative="1" as="geometry">
+            <mxPoint x="-14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2J1E2nWtynSx2TIuEP8Y-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2J1E2nWtynSx2TIuEP8Y-16" target="2J1E2nWtynSx2TIuEP8Y-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2J1E2nWtynSx2TIuEP8Y-27" value="无须鉴权" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2J1E2nWtynSx2TIuEP8Y-26">
+          <mxGeometry x="-0.2345" y="3" relative="1" as="geometry">
+            <mxPoint x="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2J1E2nWtynSx2TIuEP8Y-16" value="该路由是否必须登录" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="310" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2J1E2nWtynSx2TIuEP8Y-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2J1E2nWtynSx2TIuEP8Y-24" target="2J1E2nWtynSx2TIuEP8Y-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="280" y="350" />
+              <mxPoint x="280" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2J1E2nWtynSx2TIuEP8Y-31" value="已登录" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2J1E2nWtynSx2TIuEP8Y-30">
+          <mxGeometry x="0.1099" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2J1E2nWtynSx2TIuEP8Y-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2J1E2nWtynSx2TIuEP8Y-24" target="2J1E2nWtynSx2TIuEP8Y-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2J1E2nWtynSx2TIuEP8Y-35" value="未登录" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2J1E2nWtynSx2TIuEP8Y-34">
+          <mxGeometry x="-0.1732" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2J1E2nWtynSx2TIuEP8Y-24" value="是否已登录" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="310" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2J1E2nWtynSx2TIuEP8Y-25" value="跳至页面" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2J1E2nWtynSx2TIuEP8Y-33" value="跳至登录页" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
